@@ -1,0 +1,2 @@
+*.lenovo.com
+vantage-csw-lenovo.com

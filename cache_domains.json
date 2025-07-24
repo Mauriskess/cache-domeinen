@@ -1,0 +1,29 @@
+{
+  "cache_domains": [
+    {
+      "name": "steam",
+      "description": "CDN for Steam",
+      "domain_files": ["steam.txt"]
+    },
+    {
+      "name": "test",
+      "description": "CDN for Testing, recommended to enable for additional diagnostics",
+      "domain_files": ["test.txt"]
+    },
+	{
+      "name": "lenovo",
+      "description": "CDN for Lenovo",
+      "domain_files": ["lenovo.txt"]
+    },
+    {
+      "name": "wsus",
+      "description": "CDN for Windows Updates",
+      "domain_files": ["windowsupdates.txt"]
+    },
+    {
+      "name": "xboxlive",
+      "description": "CDN for Xbox Live",
+      "domain_files": ["xboxlive.txt"]
+    }
+  ]
+}
