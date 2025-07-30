@@ -1,3 +1,4 @@
 *.lenovo.com
 vantage-csw-lenovo.com
 filedownload.lenovo.com.akadns.net
+chifsr.lenovomm.com
